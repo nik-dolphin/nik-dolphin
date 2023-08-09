@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **DevOps tools and NuxtJS.**
 
-- 👨‍💻 All of my projects are available at [https://www.nikunjbhuva.com/](https://www.nikunjbhuva.com/)
-
 - 📫 How to reach me **nikunj.dolphinwebsolution@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
