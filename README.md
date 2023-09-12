@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikunj Bhuva</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<a align="center" href="https://app.daily.dev/nikunjbhuva"><img src="https://api.daily.dev/devcards/cb6edd080e7342fdb1387da5645c1298.png?r=eii" width="400" alt="Nikunj Bhuva's Dev Card"/></a>
+<p align="center"><a href="https://app.daily.dev/nikunjbhuva"><img src="https://api.daily.dev/devcards/cb6edd080e7342fdb1387da5645c1298.png?r=eii" width="400" alt="Nikunj Bhuva's Dev Card"/></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik-dolphin&label=Profile%20views&color=0e75b6&style=flat" alt="nik-dolphin" /> </p>
 
